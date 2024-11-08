@@ -18,7 +18,7 @@
 
 ## TrustedInstaller
 
-<a href="">Enables & Disables trusted installer</a>
+<a href="https://github.com/KapiKane/regit-hell/tree/main/TrustedInstaller">Enables & Disables trusted installer</a>
 
 
 
