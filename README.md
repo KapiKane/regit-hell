@@ -14,11 +14,14 @@
 ## Table of contents
 
 - [TrustedInstaller](#TrustedInstaller)
+- [Enabling Updates](#EnablingUpdates)
 
 
 ## TrustedInstaller
-
 <a href="https://github.com/KapiKane/regit-hell/tree/main/TrustedInstaller">Enables & Disables trusted installer</a>
+
+## EnablingUpdates
+<a href="https://github.com/KapiKane/regit-hell/tree/main/EnablingUpdates">Enables & Disables updating</a>
 
 
 
