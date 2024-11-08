@@ -11,7 +11,7 @@ set /p enable="Do you want to enable TrustedInstaller? (Y/n): "
 
 :a
 if /I "%enable%"=="Y" (
-    start EnableTrustedInstaller.reg
+    start TrustedInstaller/GainTrustInstaller.reg
     echo "TrustedInstaller enabled."
 ) else if /I "%enable%"=="N" (
     start regit-hell/TrustedInstaller/RemoveTrustInstaller.reg
