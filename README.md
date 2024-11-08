@@ -13,7 +13,7 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
+- [TrustedInstaller](#TrustedInstaller)
 
 
 ## TrustedInstaller
