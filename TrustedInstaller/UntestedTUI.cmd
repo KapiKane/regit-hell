@@ -14,7 +14,7 @@ if /I "%enable%"=="Y" (
     start EnableTrustedInstaller.reg
     echo "TrustedInstaller enabled."
 ) else if /I "%enable%"=="N" (
-    start DisableTrustedInstaller.reg
+    start regit-hell/TrustedInstaller/RemoveTrustInstaller.reg
     echo "TrustedInstaller disabled."
 ) else (
     echo "No proper input. Try again."
